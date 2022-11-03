@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuanhf3754
+- 👋 Hi, I’m Haifeng Yuan.
 - 👀 I’m interested in Deep learning，Autonomous vehicle，Trajectory prediction.
 - 🌱 I am a master student from University of Science and Technology Beijing
 
